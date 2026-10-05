@@ -219,12 +219,9 @@ button.danger {
     color: #3b3f4a;
 }
 
-.badge-running,
-.chip-running[aria-pressed="false"] {
-    color: #1d4ed8;
-}
 .badge-running {
     background: #dbe7ff;
+    color: #1d4ed8;
 }
 .badge-succeeded {
     background: #dcf5e4;
